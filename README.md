@@ -47,4 +47,3 @@ Developing a script that exposes an API endpoint where admins can input natural 
     "format": "chart"
     }
  ```
->>>>>>> d91f920 (initial commit to rilREPO)
