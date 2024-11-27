@@ -1,0 +1,133 @@
+2024-11-18 15:04:54,636 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-18 15:04:54,637 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-18 15:04:54,671 [INFO]  * Restarting with watchdog (windowsapi)
+2024-11-18 15:04:58,103 [WARNING]  * Debugger is active!
+2024-11-18 15:04:58,107 [INFO]  * Debugger PIN: 541-588-081
+2024-11-18 15:05:04,240 [INFO] Request Headers: 
+
+2024-11-18 15:05:04,241 [INFO] 127.0.0.1 - - [18/Nov/2024 15:05:04] "[31m[1mGET / HTTP/1.1[0m" 415 -
+2024-11-18 15:05:06,656 [INFO] Request Headers: 
+
+2024-11-18 15:05:06,657 [INFO] 127.0.0.1 - - [18/Nov/2024 15:05:06] "[31m[1mGET / HTTP/1.1[0m" 415 -
+2024-11-18 15:05:23,451 [INFO] Request Headers: 
+
+2024-11-18 15:05:23,453 [INFO] 127.0.0.1 - - [18/Nov/2024 15:05:23] "[31m[1mGET / HTTP/1.1[0m" 415 -
+2024-11-18 15:05:50,413 [INFO] Request Headers: 
+
+2024-11-18 15:05:50,414 [INFO] Request Body: {'query': 'Show all records from users.', 'format': 'text'}
+2024-11-18 15:05:50,415 [INFO] Received query: Show all records from users., Format: text
+2024-11-18 15:05:50,415 [ERROR] Exception in generate_sql: cannot access local variable 'sql_query' where it is not associated with a value
+2024-11-18 15:05:50,416 [ERROR] SQL Generation Error: Error: SQL generation failed due to: cannot access local variable 'sql_query' where it is not associated with a value
+2024-11-18 15:05:50,417 [INFO] 127.0.0.1 - - [18/Nov/2024 15:05:50] "[31m[1mPOST /process_query?Content-Type=application/json HTTP/1.1[0m" 400 -
+2024-11-18 15:06:26,717 [INFO] Request Headers: 
+
+2024-11-18 15:06:26,718 [INFO] Request Body: {'query': 'Show all records from users.', 'format': 'table'}
+2024-11-18 15:06:26,718 [INFO] Received query: Show all records from users., Format: table
+2024-11-18 15:06:26,719 [ERROR] Exception in generate_sql: cannot access local variable 'sql_query' where it is not associated with a value
+2024-11-18 15:06:26,719 [ERROR] SQL Generation Error: Error: SQL generation failed due to: cannot access local variable 'sql_query' where it is not associated with a value
+2024-11-18 15:06:26,720 [INFO] 127.0.0.1 - - [18/Nov/2024 15:06:26] "[31m[1mPOST /process_query?Content-Type=application/json HTTP/1.1[0m" 400 -
+2024-11-18 15:09:51,647 [INFO]  * Detected change in 'c:\\Users\\Dell\\Desktop\\AllesAna\\RenaissanceInnLabs\\nLQDatabaseAccess\\app.py', reloading
+2024-11-18 15:09:51,650 [INFO]  * Detected change in 'c:\\Users\\Dell\\Desktop\\AllesAna\\RenaissanceInnLabs\\nLQDatabaseAccess\\app.py', reloading
+2024-11-18 15:09:52,353 [INFO]  * Restarting with watchdog (windowsapi)
+2024-11-18 15:09:56,768 [WARNING]  * Debugger is active!
+2024-11-18 15:09:56,773 [INFO]  * Debugger PIN: 541-588-081
+2024-11-18 15:12:03,467 [INFO]  * Detected change in 'c:\\Users\\Dell\\Desktop\\AllesAna\\RenaissanceInnLabs\\nLQDatabaseAccess\\app.py', reloading
+2024-11-18 15:12:03,469 [INFO]  * Detected change in 'c:\\Users\\Dell\\Desktop\\AllesAna\\RenaissanceInnLabs\\nLQDatabaseAccess\\app.py', reloading
+2024-11-18 15:12:04,233 [INFO]  * Restarting with watchdog (windowsapi)
+2024-11-18 15:30:24,501 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-18 15:30:24,503 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-18 15:30:24,538 [INFO]  * Restarting with watchdog (windowsapi)
+2024-11-18 15:30:27,753 [WARNING]  * Debugger is active!
+2024-11-18 15:30:27,759 [INFO]  * Debugger PIN: 541-588-081
+2024-11-18 15:30:27,902 [INFO] Request Headers: 
+
+2024-11-18 15:30:27,905 [INFO] 127.0.0.1 - - [18/Nov/2024 15:30:27] "[31m[1mGET / HTTP/1.1[0m" 415 -
+2024-11-18 15:30:41,975 [INFO] Request Headers: 
+
+2024-11-18 15:30:41,977 [INFO] 127.0.0.1 - - [18/Nov/2024 15:30:41] "[31m[1mGET / HTTP/1.1[0m" 415 -
+2024-11-18 15:33:24,494 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-18 15:33:24,496 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-18 15:33:24,518 [INFO]  * Restarting with watchdog (windowsapi)
+2024-11-18 15:33:27,775 [WARNING]  * Debugger is active!
+2024-11-18 15:33:27,780 [INFO]  * Debugger PIN: 541-588-081
+2024-11-18 15:33:33,513 [INFO] Request Headers: 
+
+2024-11-18 15:33:33,515 [INFO] 127.0.0.1 - - [18/Nov/2024 15:33:33] "[31m[1mGET / HTTP/1.1[0m" 415 -
+2024-11-18 15:38:37,593 [INFO]  * Detected change in 'c:\\Users\\Dell\\Desktop\\AllesAna\\RenaissanceInnLabs\\nLQDatabaseAccess\\app.py', reloading
+2024-11-18 15:38:37,595 [INFO]  * Detected change in 'c:\\Users\\Dell\\Desktop\\AllesAna\\RenaissanceInnLabs\\nLQDatabaseAccess\\app.py', reloading
+2024-11-18 15:38:39,202 [INFO]  * Restarting with watchdog (windowsapi)
+2024-11-18 15:38:49,382 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-18 15:38:49,383 [INFO] [33mPress CTRL+C to quit[0m
+2024-11-18 15:38:49,402 [INFO]  * Restarting with watchdog (windowsapi)
+2024-11-18 15:38:52,326 [WARNING]  * Debugger is active!
+2024-11-18 15:38:52,330 [INFO]  * Debugger PIN: 541-588-081
+2024-11-18 15:38:59,043 [INFO] Request Headers: 
+
+2024-11-18 15:38:59,045 [INFO] 127.0.0.1 - - [18/Nov/2024 15:38:59] "[31m[1mGET / HTTP/1.1[0m" 415 -
+2024-11-18 15:39:16,876 [INFO] Request Headers: 
+
+2024-11-18 15:39:16,878 [INFO] Request Body: {'query': 'Show all records from users.', 'format': 'table'}
+2024-11-18 15:39:16,878 [INFO] Received query: Show all records from users., Format: table
+2024-11-18 15:39:18,389 [INFO] HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-18 15:39:18,396 [INFO] OpenAI API Response: ChatCompletion(id='7f69b6fd-8e7d-40db-b16e-d412f13d5c96', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```sql\nSELECT * FROM users;\n```', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None))], created=1731940759, model='grok-beta', object='chat.completion', service_tier=None, system_fingerprint='fp_be475d80cf', usage=CompletionUsage(completion_tokens=10, prompt_tokens=42, total_tokens=52, completion_tokens_details=None, prompt_tokens_details=None))
+2024-11-18 15:39:18,397 [INFO] Generated SQL Before Cleanup: ```sql
+SELECT * FROM users;
+```
+2024-11-18 15:39:18,398 [INFO] Cleaned SQL: SELECT * FROM users;
+2024-11-18 15:39:18,399 [ERROR] SQL Generation Error: Error: Generated invalid or unsafe SQL detected.
+2024-11-18 15:39:18,399 [INFO] 127.0.0.1 - - [18/Nov/2024 15:39:18] "[31m[1mPOST /process_query?Content-Type=application/json HTTP/1.1[0m" 400 -
+2024-11-18 15:39:30,133 [INFO] Request Headers: 
+
+2024-11-18 15:39:30,134 [INFO] Request Body: {'query': 'Show all records from users.', 'format': 'table'}
+2024-11-18 15:39:30,134 [INFO] Received query: Show all records from users., Format: table
+2024-11-18 15:39:31,516 [INFO] HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-18 15:39:31,518 [INFO] OpenAI API Response: ChatCompletion(id='eb390bf3-829e-46b3-9815-c1dbcb7026db', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```sql\nSELECT * FROM users;\n```', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None))], created=1731940772, model='grok-beta', object='chat.completion', service_tier=None, system_fingerprint='fp_be475d80cf', usage=CompletionUsage(completion_tokens=10, prompt_tokens=42, total_tokens=52, completion_tokens_details=None, prompt_tokens_details=None))
+2024-11-18 15:39:31,519 [INFO] Generated SQL Before Cleanup: ```sql
+SELECT * FROM users;
+```
+2024-11-18 15:39:31,519 [INFO] Cleaned SQL: SELECT * FROM users;
+2024-11-18 15:39:31,519 [ERROR] SQL Generation Error: Error: Generated invalid or unsafe SQL detected.
+2024-11-18 15:39:31,520 [INFO] 127.0.0.1 - - [18/Nov/2024 15:39:31] "[31m[1mPOST /process_query?Content-Type=application/json HTTP/1.1[0m" 400 -
+2024-11-18 15:39:54,370 [INFO] Request Headers: 
+
+2024-11-18 15:39:54,371 [INFO] Request Body: {'query': 'Show all records from users.', 'format': 'table'}
+2024-11-18 15:39:54,371 [INFO] Received query: Show all records from users., Format: table
+2024-11-18 15:39:55,924 [INFO] HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-18 15:39:55,925 [INFO] OpenAI API Response: ChatCompletion(id='3ee1bbee-b93f-4a14-b6f8-2d78be32da87', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```sql\nSELECT * FROM users;\n```', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None))], created=1731940797, model='grok-beta', object='chat.completion', service_tier=None, system_fingerprint='fp_be475d80cf', usage=CompletionUsage(completion_tokens=10, prompt_tokens=42, total_tokens=52, completion_tokens_details=None, prompt_tokens_details=None))
+2024-11-18 15:39:55,926 [INFO] Generated SQL Before Cleanup: ```sql
+SELECT * FROM users;
+```
+2024-11-18 15:39:55,927 [INFO] Cleaned SQL: SELECT * FROM users;
+2024-11-18 15:39:55,927 [ERROR] SQL Generation Error: Error: Generated invalid or unsafe SQL detected.
+2024-11-18 15:39:55,927 [INFO] 127.0.0.1 - - [18/Nov/2024 15:39:55] "[31m[1mPOST /process_query?Content-Type=application/json HTTP/1.1[0m" 400 -
+2024-11-18 15:41:28,966 [INFO] Request Headers: 
+
+2024-11-18 15:41:28,966 [INFO] Request Body: {'query': 'Show all records from users.', 'format': 'table'}
+2024-11-18 15:41:28,967 [INFO] Received query: Show all records from users., Format: table
+2024-11-18 15:41:30,320 [INFO] HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-18 15:41:30,321 [INFO] OpenAI API Response: ChatCompletion(id='9b198223-98fa-4de6-aede-e39ea8b47e40', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```sql\nSELECT * FROM users;\n```', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None))], created=1731940891, model='grok-beta', object='chat.completion', service_tier=None, system_fingerprint='fp_be475d80cf', usage=CompletionUsage(completion_tokens=10, prompt_tokens=42, total_tokens=52, completion_tokens_details=None, prompt_tokens_details=None))
+2024-11-18 15:41:30,322 [INFO] Generated SQL Before Cleanup: ```sql
+SELECT * FROM users;
+```
+2024-11-18 15:41:30,323 [INFO] Cleaned SQL: SELECT * FROM users;
+2024-11-18 15:41:30,323 [ERROR] SQL Generation Error: Error: Generated invalid or unsafe SQL detected.
+2024-11-18 15:41:30,323 [INFO] 127.0.0.1 - - [18/Nov/2024 15:41:30] "[31m[1mPOST /process_query?Content-Type=application/json HTTP/1.1[0m" 400 -
+2024-11-18 15:45:03,951 [INFO] Request Headers: 
+
+2024-11-18 15:45:03,952 [INFO] Request Body: {'query': 'Show all records from users', 'format': 'table'}
+2024-11-18 15:45:03,953 [INFO] Received query: Show all records from users, Format: table
+2024-11-18 15:45:05,664 [INFO] HTTP Request: POST https://api.x.ai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-18 15:45:05,666 [INFO] OpenAI API Response: ChatCompletion(id='a256cf33-62b7-43c8-8448-596a7249940e', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='```sql\nSELECT * FROM users;\n```', refusal=None, role='assistant', audio=None, function_call=None, tool_calls=None))], created=1731941106, model='grok-beta', object='chat.completion', service_tier=None, system_fingerprint='fp_be475d80cf', usage=CompletionUsage(completion_tokens=10, prompt_tokens=41, total_tokens=51, completion_tokens_details=None, prompt_tokens_details=None))
+2024-11-18 15:45:05,666 [INFO] Generated SQL Before Cleanup: ```sql
+SELECT * FROM users;
+```
+2024-11-18 15:45:05,667 [INFO] Cleaned SQL: SELECT * FROM users;
+2024-11-18 15:45:05,667 [ERROR] SQL Generation Error: Error: Generated invalid or unsafe SQL detected.
+2024-11-18 15:45:05,668 [INFO] 127.0.0.1 - - [18/Nov/2024 15:45:05] "[31m[1mPOST /process_query?Content-Type=application/json HTTP/1.1[0m" 400 -
+2024-11-18 15:46:09,890 [INFO] Request Headers: 
+
+2024-11-18 15:46:09,891 [INFO] 127.0.0.1 - - [18/Nov/2024 15:46:09] "[31m[1mGET /process_query HTTP/1.1[0m" 415 -

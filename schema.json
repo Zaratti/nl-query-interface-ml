@@ -1,0 +1,31 @@
+{
+    "tables": [
+        {
+            "table_name": "Users",
+            "columns": [
+                {
+                    "column_name": "id",
+                    "data_type": "INTEGER",
+                    "description": "Unique identifier for each user."
+                },
+                {
+                    "column_name": "name",
+                    "data_type": "TEXT",
+                    "description": "Name of the user."
+                },
+                {
+                    "column_name": "email",
+                    "data_type": "TEXT",
+                    "description": "Email address of the user."
+                },
+                {
+                    "column_name": "created_at",
+                    "data_type": "DATETIME",
+                    "description": "The timestamp when the user signed up."
+                }
+            ],
+            "primary_key": ["id"]
+        }
+    ],
+    "relationships": []
+}
