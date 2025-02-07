@@ -25,6 +25,7 @@ Developing a script that exposes an API endpoint where admins can input natural 
 ## Notes
 - Ensure the xAI API key(or whatever model you decide to use) has sufficient quota to handle requests, this will help you handle RateLimitErrors.
 - Update the database file(I used sqlite, your database could be different) and schema(that is, an outlined description of the structure of your connected database) as needed to match your application.
+- "recent error": "Error: SQL generation failed due to Error code: 429 - {was because resource has been exhausted: either used all available credits or reached its monthly spending limit. To continue making API requests, we need to purchase more credits or raise our spending limit.}"
 
 ## Example Queries
 - Text:
